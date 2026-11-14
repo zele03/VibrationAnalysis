@@ -85,4 +85,4 @@ Course: Real-Time Control Algorithms
 
 ## Documentation
 
-Detailed technical documentation covering hardware configuration, acquisition setup, signal processing methods and software implementation is available in the `Documentation/` directory.
+Detailed technical documentation covering hardware configuration, acquisition setup, signal processing methods and software implementation is available in the `docs/` directory.
